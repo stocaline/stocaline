@@ -1,7 +1,7 @@
 ### Opa, tudo certo? 👋
 
 # 💫 Sobre mim:
-🔭 Programador JAVA<br>🌱 Estou estudando Node.js e React.js<br>
+🔭 Estudante de análise e desenvolvimeto de sistemas <br>🌱 No momento estou estou estudando Node.js e React.js<br>
 
 
 # 💻 Tecnologias ultilizadas no dia a dia:
