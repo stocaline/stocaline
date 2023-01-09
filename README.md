@@ -1,7 +1,7 @@
 ### Opa, tudo certo? 👋
 
 # 💫 Sobre mim:
-🔭 Estudante de análise e desenvolvimeto de sistemas <br>🌱 No momento estou estou estudando o ecossistema javascript (node.js, next.js entre outros)
+🔭 Estudante de análise e desenvolvimeto de sistemas <br>🌱 No momento estou estou estudando o ecossistema javascript (node.js, react.js entre outros)
 
 
 # 💻 Tecnologias ultilizadas no dia a dia:
