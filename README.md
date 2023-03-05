@@ -19,7 +19,6 @@
 <div align="center">
 
 <a href="https://github.com/stocaline/">
-  <img src="https://github-readme-stats.vercel.app/api?username=stocaline&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" width="450"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stocaline&theme=algolia&hide_border=false" width="490"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stocaline&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="490"/>
 
